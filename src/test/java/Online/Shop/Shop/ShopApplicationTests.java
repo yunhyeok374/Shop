@@ -8,6 +8,8 @@ class ShopApplicationTests {
 
 	@Test
 	void contextLoads() {
+
+		// first commit
 	}
 
 }
