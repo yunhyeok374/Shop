@@ -52,6 +52,6 @@
 
 
 .도메인 모델과테이블설계<img width="872" alt="스크린샷 2023-05-20 오후 8 33 18" src="https://github.com/yunhyeok374/Shop/assets/104815459/6dce6de2-1374-4bbd-99a2-804b17f28e71">
-회원 엔티티 
-<img width="878" alt="스크린샷 2023-05-20 오후 9 02 11" src="https://github.com/yunhyeok374/Shop/assets/104815459/7adfedce-a734-4163-a425-0686116a7b71">
+
+
 
